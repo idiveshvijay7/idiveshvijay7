@@ -25,7 +25,6 @@
 I'm a pre-final year student at the Indian Institute of Information Technology Vadodara. I am an enthusiastic Flutter Developer and a Competitive programmer. I have made several projects on Mobile and Software Development (Mainly Python, Java, Flutter and Front-end web). <br/><br/>
 From an engineering perspective, I want to pursue "Data science and machine learning" as my specialization fields.<br/><br/>
 Currently I am looking for, Flutter development opportunities & collaborations. <br/><br/>
-📫 How to reach me: kapilkumar2001prajapat@gmail.com
 
 </p>
 
