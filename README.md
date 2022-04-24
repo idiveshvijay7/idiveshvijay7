@@ -3,17 +3,32 @@
 <h1 align="center">Hi 👋, I'm Divesh Vijaywargiya</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
 
-- 🔭 I’m currently working on [Calendar_Event](https://github.com/idiveshvijay7/Calendar_Event)
+- 🔭 I’m currently working on Flutter Projects.
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Data science , AI and Flutter.**
 
-- 👯 I’m looking to collaborate on [Vocsekh](https://github.com/idiveshvijay7/Vocsekh)
+- 👯 I’m looking to collaborate on Projects
 
 - 📫 How to reach me **idiveshvijay@gmail.com**
 
 - 📄 Know about my experiences [shorturl.at/uxGKW](shorturl.at/uxGKW)
 
 - ⚡ Fun fact **Nature is very Fundamental**
+
+- 💬 If you have anything to Ask me about anything...Linkedin is there
+
+<img align="right" alt="GIF" src="./hii.gif" width="400" height="300" />
+<br/>
+<p>
+
+I'm a pre-final year student at the Indian Institute of Information Technology Vadodara. I am an enthusiastic Flutter Developer and a Competitive programmer. I have made several projects on Mobile and Software Development (Mainly Python, Java, Flutter and Front-end web). <br/><br/>
+From an engineering perspective, I want to pursue "Data science and machine learning" as my specialization fields.<br/><br/>
+Currently I am looking for, Flutter development opportunities & collaborations. <br/><br/>
+📫 How to reach me: kapilkumar2001prajapat@gmail.com
+
+</p>
+
+<br/> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
