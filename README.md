@@ -17,7 +17,7 @@
 
 - 💬 If you have anything to Ask me about anything...Linkedin is there
 
-<img align="right" alt="GIF" src="./hii.gif" width="400" height="300" />
+<img align="right" alt="GIF" src="./2068753.jpg" width="400" height="300" />
 <br/>
 <p>
 
