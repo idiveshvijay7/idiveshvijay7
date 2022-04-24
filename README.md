@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Divesh Vijaywargiya</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
-
+<img align="right" alt="GIF" src="./2068753.jpg" width="400" height="300" />
 - 🔭 I’m currently working on Flutter Projects.
 
 - 🌱 I’m currently learning **Data science , AI and Flutter.**
@@ -17,7 +17,7 @@
 
 - 💬 If you have anything to Ask me about anything...Linkedin is there
 
-<img align="right" alt="GIF" src="./2068753.jpg" width="400" height="300" />
+
 <br/>
 <p>
 
